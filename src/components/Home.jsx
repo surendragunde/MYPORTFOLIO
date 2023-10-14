@@ -21,7 +21,7 @@ const Home = () => {
 
         {/* Logo on the right */}
         <div className='flex-shrink'>
-          <img src={Logo} alt='Logo Image' style={{ width: '300px', height: '300px' }} />
+          <img src={Logo} alt='Logo Image' style={{ width: '300px', height: '200px' }} />
         </div>
       </div>
     </div>
